@@ -1,0 +1,6 @@
+evidencias/
+respaldo-eliminar/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
